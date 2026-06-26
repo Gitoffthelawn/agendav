@@ -134,6 +134,8 @@ $translations = [
 
     'labels.preferences' => 'Einstellungen',
     'labels.return' => 'Zurück',
+    'labels.save_and_return' => 'Speichern und zum Kalender zurück',
+    'labels.discard_changes' => 'Anderungen verwerfen',
 
     'labels.defaultcalendar' => 'Standardkalender',
     'labels.default_view' => 'Standardansicht',
@@ -188,6 +190,7 @@ $translations = [
 
 // Messages
     'messages.error_auth' => 'Ungültiger Benutzername oder Passwort',
+    'messages.error_no_caldav' => 'Anmeldung erfolgreich, aber der Server scheint kein CalDAV-Server zu sein',
     'messages.error_denied' => 'Der Server hat ihre Anforderung abgelehnt (permission forbidden)',
 
     'messages.info_confirmcaldelete' => 'Sind Sie sich sicher, dass Sie den folgenden Kalender löschen möchten?',
